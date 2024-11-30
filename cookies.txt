@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.prod.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	y.bmAPkq0TCifcmgnuH449Caqk9wWKEMXZ1tZmojGes-1732827146-1.0.1.1-bKiY46ZrzoSB4pig4FlR_SXGGcGDFCYohjPHE3pUhZnr6zYYv31YPIohlJm5SGDDGRr3kQ2I69cmD7k8UBzxUQ
+cdn.prod.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	__cf_bm	qg8scWpkvsT5YvhcsVg_59OdnSqzyLRLWQawrEzu0q0-1732827153-1.0.1.1-1617H9R5h9lkOR6R4qZw3MI7Dn.8muVFl3lE_2nCTDtRH9NrPJkkBpbTq5wfBYhoqgo3zlFUPVrkh.1rgeCc8Q
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	VPolpnmulp5vwmicFo_4IPxEO7EdHnq9vq21IJWLdjA-1732827153249-0.0.1.1-604800000
+www.cosmos.studio	TRUE	/	FALSE	1999999999	SameSite	None
+
